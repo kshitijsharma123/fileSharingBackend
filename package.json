@@ -15,7 +15,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "server": "nodemon server.js"
+    "server": "nodemon server.js",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
